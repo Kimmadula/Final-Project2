@@ -43,20 +43,24 @@ body{
 	line-height: 50px;
 	color: #fff;
 }
+.team img {
+	height: 200px;
+	
+}
 .team {
 	margin: 10px;
-	padding: 22px;
+	padding: 10px;
 	max-width: 30%;
 	cursor: pointer;
 	box-sizing: border-box;
 	background-color: #fff;
-	border-radius: 12px
+	border-radius: 10px
 
 }
 .sub-container{
 	max-width: 1200px;
 	margin: auto;
-	padding: 48px 0;
+	padding: 20px 0;
 	display: flex;
 }	
 .name {
@@ -86,17 +90,20 @@ body{
 /*-------------------------------------NAVBAR------------------------------------------------------*/
 .navbar {
 	overflow: hidden;
-
 }
 .navbar a:hover {
-  background-color: red;
+  background-color: #0089FF;
   border-radius: 20px;
   transition: .6s ease;
+  
 }
 .navbar-nav > li{
-  padding-left:30px;
-  padding-right:30px;
-  color: black;
+	margin-left:30px;
+	margin-right:30px;
+}
+.navbar li {
+	border:1px solid #fff;
+	border-radius: 25px;
 }
 .nav-item  {
 	font-size: 25px;
@@ -124,7 +131,7 @@ body{
 	border-radius: 10px;
 	margin-left: 55px;
 	margin-top: 210px;
-	width: 440px;
+	width: 300px;
 }
 .class2 h1{
 	top:150px;
