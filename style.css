@@ -28,10 +28,8 @@ body{
 	/*https://c4.wallpaperflare.com/wallpaper/803/485/82/cebu-moalboal-philippines-sunset-dusk-clouds-sea-boats-wallpaper-preview.jpg*/
 }
 .about-bg {
-	background-image:url(beach.jpg);
-	background-size: cover;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5))url(abouty.jpg);
+
 }
 /*---------------------------------------------------------ABOUT----------------------------------*/
 .container2 .card{
