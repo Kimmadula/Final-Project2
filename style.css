@@ -80,6 +80,10 @@ body{
 .nav-item  {
 	font-size: 25px;
 }
+.navbar-brand img {
+	width:110px; 
+	height:50px;
+}
 /*--------------------------------------DESTINATION-----------------------------------------------------*/
 
 .class2 img{
