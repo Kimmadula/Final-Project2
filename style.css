@@ -70,7 +70,7 @@ body{
 /*-------------------------------------NAVBAR------------------------------------------------------*/
 .navbar {
 	overflow: hidden;
-	background-color: black;
+	background-color: #34495E ;
 }
 .navbar a:hover {
   background-color: #0089FF;
