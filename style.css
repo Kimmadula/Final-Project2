@@ -67,6 +67,7 @@ body{
 /*-------------------------------------NAVBAR------------------------------------------------------*/
 .navbar {
 	overflow: hidden;
+	background-color: black;
 }
 .navbar a:hover {
   background-color: #0089FF;
