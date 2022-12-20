@@ -31,6 +31,9 @@ body{
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(abouty.jpg);
 
 }
+.des-bg {
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(destinationy.jpg);
+}
 /*---------------------------------------------------------ABOUT----------------------------------*/
 .container2 .card{
     padding: 1.5em .5em .5em;
